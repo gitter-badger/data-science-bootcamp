@@ -1,4 +1,6 @@
 # Data Science Bootcamp
+
+[![Join the chat at https://gitter.im/zaidfarekh/data-science-bootcamp](https://badges.gitter.im/zaidfarekh/data-science-bootcamp.svg)](https://gitter.im/zaidfarekh/data-science-bootcamp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Exercises for JOSA's data science bootcamp
 
 ## How to contribute
